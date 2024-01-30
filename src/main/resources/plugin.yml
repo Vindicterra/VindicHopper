@@ -1,0 +1,4 @@
+name: VindicHopper
+version: '${version}'
+main: org.vindicterra.vindichopper.VindicHopper
+api-version: '1.20'
